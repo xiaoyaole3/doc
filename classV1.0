@@ -1,1 +1,267 @@
-<mxfile host="app.diagrams.net" modified="2021-04-20T15:21:40.540Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" version="14.6.3" etag="KofFb24OxyKAEESTvhrH" type="github"><diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-20T16:59:17.177Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.128 Safari/537.36" etag="YVpKrrSDuq6kBkT0ofTC" version="14.6.3" type="github">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1697" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-67" value="" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="900" width="290" height="630" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;department（部门）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-14">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="160" y="270" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;employee_department_rel&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-18">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="470" y="270" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-19" target="2kPkUqhdVM4zLfG3eNQ3-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;employee（员工）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-19">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="270" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-21" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-14" target="2kPkUqhdVM4zLfG3eNQ3-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="350" as="sourcePoint" />
+            <mxPoint x="440" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-22" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-18" target="2kPkUqhdVM4zLfG3eNQ3-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="309.5" as="sourcePoint" />
+            <mxPoint x="770" y="309.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;dashed=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-23" target="2kPkUqhdVM4zLfG3eNQ3-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;post（职务）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-23">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1050" y="270" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-24" value="" style="endArrow=none;dashed=1;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-19" target="2kPkUqhdVM4zLfG3eNQ3-23">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1270" y="450" as="sourcePoint" />
+            <mxPoint x="1320" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;role（角色）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-25">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1050" y="120" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-32" target="2kPkUqhdVM4zLfG3eNQ3-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer（客户）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;export&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="580" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-35" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_follow_up_recoding（客户跟进记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-35">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1310" y="430" width="290" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-37" target="2kPkUqhdVM4zLfG3eNQ3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_order_rel（客户和订单的关系）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-37">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="705" y="750" width="270" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-55" value="1：1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-39" target="2kPkUqhdVM4zLfG3eNQ3-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-39" target="2kPkUqhdVM4zLfG3eNQ3-73">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;order（订单）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;1. 预约 失效&lt;br&gt;&amp;nbsp;2. export&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-39">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="950" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-41" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;employee_customer_rel（员工和客户的关系）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-41">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="705" y="420" width="270" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-44" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_circulation_recoding（客户流转记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-44">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1310" y="510" width="290" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-46" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_accounts_recoding（客户账户往来记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-46">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1310" y="590" width="320" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-47" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_discount_application_recoding（客户优惠申请记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-47">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1310" y="670" width="370" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-52" target="2kPkUqhdVM4zLfG3eNQ3-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;customer_recommend_recoding（客户推荐记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-52">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1310" y="760" width="370" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-54" target="2kPkUqhdVM4zLfG3eNQ3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;book_identifier（图书编码位置）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-54">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="1180" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-56" target="2kPkUqhdVM4zLfG3eNQ3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-79" value="1:1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2kPkUqhdVM4zLfG3eNQ3-77">
+          <mxGeometry x="0.175" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;book（图书）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;1. 预约&amp;nbsp;&lt;br&gt;&amp;nbsp;2. export&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-56">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="1400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-60" target="2kPkUqhdVM4zLfG3eNQ3-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;book_&lt;/b&gt;&lt;b&gt;identifier&lt;/b&gt;&lt;b&gt;_author（图书位置作者信息）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-60">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1070" y="1180" width="270" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-63" target="2kPkUqhdVM4zLfG3eNQ3-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;pre_order（预订单）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-63">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="414" y="950" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-65" target="2kPkUqhdVM4zLfG3eNQ3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;pre_book（预约图书）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-65">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="424" y="1400" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-69" value="虚拟的概念" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="374" y="910" width="76" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-70" target="2kPkUqhdVM4zLfG3eNQ3-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;book_&lt;/b&gt;&lt;b&gt;identifier&lt;/b&gt;&lt;b&gt;_author_history（图书位置作者信息历史）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-70">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1470" y="1180" width="350" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;accounts_receivable（回款信息）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-72">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1980" y="950" width="210" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-73" target="2kPkUqhdVM4zLfG3eNQ3-72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;order_accounts_receivable_rel（订单回款信息的关系）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-73">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1080" y="950" width="340" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-76" target="2kPkUqhdVM4zLfG3eNQ3-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-76" target="2kPkUqhdVM4zLfG3eNQ3-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;produce（生产）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;1. 待生产 生产中 已生产&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-76">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="750" y="1810" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-80" target="2kPkUqhdVM4zLfG3eNQ3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;produce_exchang_recoding（生产单转移记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-80">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1096" y="1700" width="290" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-82" target="2kPkUqhdVM4zLfG3eNQ3-76">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;produce_follow_up_recoding（生产单跟进记录）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-82">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1096" y="1910" width="290" height="60" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;supplier（供应商）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-84">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="30" y="1710" width="180" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-87" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-85" target="2kPkUqhdVM4zLfG3eNQ3-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;produce_supplier_rel（生产供应商之间关系）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-85">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="324" y="1710" width="290" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;external_assistance（外协）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-88">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="20" y="1900" width="200" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-90" target="2kPkUqhdVM4zLfG3eNQ3-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;produce_external_assistance_rel（生产外协之间关系）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&amp;nbsp;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-90">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="296" y="1900" width="346" height="80" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="2kPkUqhdVM4zLfG3eNQ3-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;endArrow=diamondThin;endFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="2kPkUqhdVM4zLfG3eNQ3-93" target="2kPkUqhdVM4zLfG3eNQ3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;p style=&quot;margin: 0px ; margin-top: 4px ; text-align: center&quot;&gt;&lt;b&gt;cataloguing_in_publication（CIP）&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;/div&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height: 2px&quot;&gt;&lt;br&gt;&lt;/div&gt;" parentId="" placeholders="1" id="2kPkUqhdVM4zLfG3eNQ3-93">
+          <mxCell style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+            <mxGeometry x="1080" y="1400" width="260" height="80" as="geometry" />
+          </mxCell>
+        </object>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
